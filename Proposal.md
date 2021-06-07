@@ -6,7 +6,7 @@ This project will be a chart that a Teacher can create where students can checke
 - Students:  The students can join any of the charts that the Teacher created and checked off what they got done. The students can only see themselves in the chart and see the categories but can't see the other students.
 - Teachers: The Teachers can see all the students in the chart and see what they checked off on the chart. The Teacher can uncheck students if there was a mistake [or] The Teacher confirms their checks that they can continue the chart. 
 
-My Motivations was the chart that we had on the board. We put a check mark right on the same line as the names. Here is a picture of what that looks like: ![pic chart](IMG_3302.HEIC)
+My Motivations was the chart that we had on the board. We put a check mark right on the same line as the names. Here is a picture of what that looks like: !(IMG_3302.HEIC)
 
 
 
