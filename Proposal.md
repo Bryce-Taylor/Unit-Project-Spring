@@ -10,7 +10,6 @@ My Motivations was the chart that we had on the board. We put a check mark right
 
 
 
-
 ##### Week 1
 Study/Practice Spring to make sure that I know what to do. Then Start working the Initial Setup and Landing Page on MileStone 1. Make the project connect to github and make landing page.
 ##### Week 2
